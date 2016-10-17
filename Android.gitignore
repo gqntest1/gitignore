@@ -1,6 +1,7 @@
-# Built application files
+# Built application files 文件
 *.apk
 *.ap_
+.gitignore
 
 # Files for the ART/Dalvik VM
 *.dex
@@ -8,7 +9,7 @@
 # Java class files
 *.class
 
-# Generated files
+# Generated files 文件夹
 bin/
 gen/
 out/
